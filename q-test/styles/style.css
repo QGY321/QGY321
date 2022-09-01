@@ -1,0 +1,16 @@
+html {
+    font-size: 16px;
+    font-family: 'Open Sans', sans-serif;
+  }
+  h1 {
+    font-size: 30px;
+    text-align: center;
+    text-shadow: 3px 3px 5px rgb(255, 184, 92);
+  }
+  p, li {
+    font-size: 16px;
+    /* line-height 后面可以跟不同的参数，如果是数字，就是当前字体大小乘上数字 */
+    line-height: 2;
+    letter-spacing: 1px;
+  }
+  
